@@ -1,5 +1,9 @@
 # Django Brain.com.ua Parser
 
+# Створена вітка bodya де виконано поставлену задачу
+
+---
+
 Тестове завдання: Парсер мобільного телефону Apple iPhone 16 Pro Max з сайту Brain.com.ua, збереження даних у PostgreSQL
 та вивантаження у CSV.
 
@@ -16,7 +20,7 @@
 ### 1. Клонування репозиторію
 
 ```bash
-git clone <url_вашого_репозиторію>
+git clone https://github.com/Bohdan11Dii/RequestDjangoParse
 cd DjangoParser
 
 ```
